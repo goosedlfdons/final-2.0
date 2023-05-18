@@ -17,14 +17,7 @@ public class Player extends GameObject {
        //velY = r.nextInt(5);
     }
 
-    //getting player location
-    public float getX(){
-        return this.getX();
-    }
-
-    public float getY(){
-        return this.getY();
-    }
+  
     /*
     public static Location getLocation() {
 
